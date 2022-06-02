@@ -1,6 +1,6 @@
 # Заголовок
 
-## Подзаголовок
+## Скриншоты для проверки подсветки кода
 
 1. [TerraForm](https://disk.yandex.ru/i/TrITjVE5dY8MgQ)
 2. [Bash](https://disk.yandex.ru/i/cul1bz14ortxjg)
